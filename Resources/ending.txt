@@ -1,0 +1,16 @@
+5
+\Enhorabuena, ¡has conseguido evolucionar tu civilizacion al maximo!
+\Ha sido un camino largo y dificil, pero ahora ya estas preparado
+para poder emprender el viaje a Ad Astra. ¡Seras la civilizacion mas
+poderosa de todas!
+\Pulsa 'p' para ver tu puntuacion.
+3
+Estas han sido tus estadisticas:
+Tiempo empleado: 
+Nova Inc.
+Ad Astra ha sido realizado por:
+5
+Alberto Caldas
+Jaime Gimillo
+Alvaro Rodero
+Eduardo Terres

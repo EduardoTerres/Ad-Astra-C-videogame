@@ -1,0 +1,3 @@
+moduloscorruptos
+11
+5 10 10
