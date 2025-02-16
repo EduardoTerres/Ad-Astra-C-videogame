@@ -1,0 +1,9 @@
+4
+estratosfera
+1
+Misiones/mision4.txt
+2
+Mapas/Mapa1/nube.txt
+160 8
+Mapas/Mapa1/nube.txt
+330 35

@@ -1,0 +1,64 @@
+Pulsa cualquier tecla para jugar
+2
+14
+\Cuenta una vieja leyenda intergalactica que existe una galaxia
+muy especial en un rincon perdido del universo... La llaman Ad Astra.
+
+\Segun dicen, es la galaxia con mas recursos de todas. Tan prospera
+e idilica que convertiria a cualquier civilizacion que la habitase
+en la mas sabia y poderosa del universo.
+
+\Nunca ha habido una cultura que haya logrado desarrollarse
+lo suficiente como para poder encontrar Ad Astra. Sin embargo, la tuya
+puede ser la primera en conseguirlo...
+
+\Para ello necesitaras potenciar al maximo los tres atributos mas
+importantes en cualquier civilizacion: sabiduria, fuerza y bienestar.
+Pulsa 'c' para continuar
+14
+\Para mejorar estas cualidades deberas enfrentarte a los diversos retos
+que encontraras por el mapa. Puzles y acertijos, explotacion de recursos,
+inconvenientes para tus ciudadanos...
+
+\Cada una de estas misiones te otorgara puntos
+de bonificacion en una o varias de las barras de arriba a la izquierda. 
+Si no consigues superar alguna de ellas, tranquilo, puedes reintentarlas tantas
+veces como necesites. Eso si, la colonizacion de Ad Astra sera mas exitosa cuanto
+menos tiempo tardes en alcanzarla.
+
+\Una vez completadas unas cuantas misiones del mapa, tu civilizacion podra
+evolucionar. Es decir, pasara a una nueva etapa mas acorde con tus capacidades,
+estando cada vez mas cerca de emprender el viaje a Ad Astra.
+Pulsa 'c' para continuar
+21
+Para poder llevar a cabo todas estas tareas
+cuentas con la ayuda de un traductor de
+comandos, en el cual podras introducir las
+siguientes ordenes:
+\
+*/goto nombre_lugar
+sirve para visitar uno de los lugares indicados
+en el mapa.
+\
+*/mis nombre_mision
+te permite acceder a un minijuego del lugar en
+el que te encuentras.
+\
+*/evolve
+hara evolucionar tu civilizacion. puedes probar
+el comando cuando quieras para ver si puedes
+evolucionar.
+\
+*/help
+abrira una ventana para recordarte los comandos.
+Pulsa 'c' para continuar
+9
+\Parece que estas preparado para comenzar...
+\
+\Al igual que todo gran imperio empieza siendo un pequeño
+poblado, tu civilizacion iniciara su desarrollo en el planeta
+madre antes de dar el salto al espacio.
+\
+\Desde NOVA Inc. esperamos que disfrutes de esta aventura.
+¡Suerte!
+Pulsa 'c' para empezar a jugar.

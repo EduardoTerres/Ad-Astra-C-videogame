@@ -1,0 +1,29 @@
+4
+/goto
+go_command
+3
+ahora estas en *
+no puedes viajar a *
+no has elegido ningun lugar. selecciona de nuevo.
+/mis
+mission_command
+5
+has elegido la mision *
+* no esta disponible como mision.
+ya has realizado *. selecciona otra mision.
+no estas en ningun sitio. para realizar una mision escoge un lugar.
+no has elegido ninguna mision. selecciona de nuevo.
+/evolve
+evolve_command
+3
+bienvenido a un nuevo mundo. explora nuevos lugares y misiones.
+lo siento, pero todavia no puedes evolucionar. sigue completando misiones.
+para evolucionar, escribe solo /evolve.
+/help
+help_command
+1
+prueba a escribir solo /help.
+error
+error_command
+1
+lo siento, no puedo ejecutar *

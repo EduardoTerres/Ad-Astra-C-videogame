@@ -1,0 +1,7 @@
+5
+luna
+1
+Misiones/mision5.txt
+1
+Mapas/Mapa1/luna.txt
+1050 20

@@ -1,0 +1,11 @@
+7
+halley
+1
+Misiones/mision12.txt
+3
+Mapas/Mapa2/objeto10.txt
+1200 35
+Mapas/Mapa2/objeto10.txt
+1120 43
+Mapas/Mapa2/objeto10.txt
+1150 60

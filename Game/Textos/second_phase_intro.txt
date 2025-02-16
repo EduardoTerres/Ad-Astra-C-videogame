@@ -1,0 +1,11 @@
+¡Enhorabuena!, has promocionado de fase.
+9
+\Gracias a la mejora de los atributos de tu civilizacion has
+descubierto una forma de viajar mas rapido que la velocidad
+de la luz. Ahora puedes visitar planetas, estrellas y
+satelites vecinos. Eres libre para explorar la galaxia...
+
+\No te olvides de seguir completando las misiones que te vayas
+encontrando. Estas haran que tu civilizacion se siga desarrollando
+hasta poder evolucionar a la ansiada fase final.
+Pulsa 's' para continuar con la exploracion.

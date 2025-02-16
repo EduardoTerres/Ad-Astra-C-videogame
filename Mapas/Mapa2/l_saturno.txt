@@ -1,0 +1,7 @@
+4
+saturno
+1
+Misiones/mision10.txt
+1
+Mapas/Mapa2/objeto6.txt
+750 30

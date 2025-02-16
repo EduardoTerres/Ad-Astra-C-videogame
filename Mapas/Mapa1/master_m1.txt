@@ -1,0 +1,9 @@
+1
+Planeta origen
+Mapas/Mapa1/marco.txt
+5
+Mapas/Mapa1/l_montes.txt
+Mapas/Mapa1/l_ciudad.txt
+Mapas/Mapa1/l_mar.txt
+Mapas/Mapa1/l_estratosfera.txt
+Mapas/Mapa1/l_luna.txt

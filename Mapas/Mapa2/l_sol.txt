@@ -1,0 +1,7 @@
+2
+sol
+1
+Misiones/mision6.txt
+1
+Mapas/Mapa2/objeto11.txt
+45 80

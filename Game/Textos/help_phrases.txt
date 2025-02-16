@@ -1,0 +1,20 @@
+20
+Parece que necesitas un poco de ayuda...
+Recuerda:
+
+*/goto nombre_lugar
+sirve para moverte por el mapa.
+
+*/mis nombre_mision
+te permite acceder a un minijuego del lugar en
+el que te encuentras.
+
+*/evolve
+prueba a evolucionar cuando quieras. una vez 
+tengas suficientes puntos en tus atributos
+promocionaras de fase.
+
+*/help
+abrira de nuevo este menu de ayuda.
+
+>Pulsa 's' para continuar jugando.

@@ -1,0 +1,19 @@
+3
+mar
+1
+Misiones/mision3.txt
+7
+Mapas/Mapa1/olas1.txt
+85 200
+Mapas/Mapa1/olas1.txt
+380 195
+Mapas/Mapa1/olas1.txt
+720 195
+Mapas/Mapa1/olas1.txt
+1020 200
+Mapas/Mapa1/olas2.txt
+40 210
+Mapas/Mapa1/olas2.txt
+875 210
+Mapas/Mapa1/proa.txt
+400 212

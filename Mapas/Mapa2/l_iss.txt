@@ -1,0 +1,7 @@
+6
+iss
+1
+Misiones/mision8.txt
+1
+Mapas/Mapa2/objeto9.txt
+530 55

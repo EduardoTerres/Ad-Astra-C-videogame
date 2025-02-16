@@ -1,0 +1,12 @@
+1
+montes
+1
+Misiones/mision2.txt
+3
+Mapas/Mapa1/montaña2.txt
+440 10
+Mapas/Mapa1/montañas.txt
+7 51
+Mapas/Mapa1/montañas.txt
+793 51
+

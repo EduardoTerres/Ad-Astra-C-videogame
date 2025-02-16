@@ -1,0 +1,7 @@
+1
+tierra
+1
+Misiones/mision7.txt
+1
+Mapas/Mapa2/objeto4.txt
+410 80

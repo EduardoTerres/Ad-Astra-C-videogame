@@ -1,0 +1,11 @@
+2
+Sistema planetario
+Mapas/Mapa2/marco.txt
+7
+Mapas/Mapa2/l_tierra.txt
+Mapas/Mapa2/l_sol.txt
+Mapas/Mapa2/l_neptuno.txt
+Mapas/Mapa2/l_saturno.txt
+Mapas/Mapa2/l_stdplanet.txt
+Mapas/Mapa2/l_iss.txt
+Mapas/Mapa2/l_cometas.txt

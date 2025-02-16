@@ -1,0 +1,7 @@
+3
+neptuno
+1
+Misiones/mision11.txt
+1
+Mapas/Mapa2/objeto8.txt
+970 130

@@ -1,0 +1,13 @@
+2
+tenochtitlan
+1
+Misiones/mision1.txt
+4
+Mapas/Mapa1/fondo_ciudad.txt
+183 80
+Mapas/Mapa1/fondo_ciudad.txt
+650 80
+Mapas/Mapa1/ciudad1.txt
+171 97
+Mapas/Mapa1/ciudad2.txt
+645 100

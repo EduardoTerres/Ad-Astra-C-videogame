@@ -1,0 +1,7 @@
+5
+stdplanet
+1
+Misiones/mision9.txt
+1
+Mapas/Mapa2/objeto5.txt
+620 150
