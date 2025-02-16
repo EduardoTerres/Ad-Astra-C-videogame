@@ -87,14 +87,14 @@ La instalación es muy sencilla y consta de los siguientes 3 pasos:
 
 ---
 
-## Autores
+## 👥 Autores
 
 Este juego fue creado con pasión y dedicación por el equipo de **NOVA Inc.**  
 
-[@mrrodero](https://github.com/mrrodero)
-[@jgimillo](https://github.com/jgimillo)
-[@AlberCC](https://github.com/AlberCC)
-[@EduardoTerres](https://github.com/EduardoTerres)
+- [@mrrodero](https://github.com/mrrodero)
+- [@jgimillo](https://github.com/jgimillo)
+- [@AlberCC](https://github.com/AlberCC)
+- [@EduardoTerres](https://github.com/EduardoTerres)
 
 Agradecemos cualquier mejora o arreglo. 🙏
 
