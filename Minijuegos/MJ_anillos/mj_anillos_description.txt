@@ -1,0 +1,11 @@
+Parece que en la colonia de Titan, la luna mas grande de Saturno,
+ha ocurrido un problema de logistica. 
+\Algunos contenedores en los que se traian suministros han quedado 
+esparcidos por los anillos del gigante gaseoso.
+\Para recuperarlos, tendras que viajar por los anillos, que
+gracias a los avances en la civilizacion estan interconectados por puentes
+y son facilmente transitables.
+\¡Pero mucho cuidado! Los anillos no son uniformes y existen espacios
+por los que puedes caer al vacio, volviendo al punto inicial. Eso si,
+las mercancias que hayas obtenido no se perderan. Puedes reconocer los contenedores por sus colores.
+Pulsa cualquier tecla para continuar.

@@ -1,0 +1,11 @@
+Tenochtitlan, la ciudad mas importante del planeta, ¡corre un grave peligro!
+\El rapido desarrollo de la capital esta generando tantos residuos
+que las alcantarillas de la ciudad han quedado repletas de sustancias
+altamente toxicas.
+\Si quieres preservar la salud de los ciudadanos, mas te vale bajar ahi
+y ser rapido. Utiliza las flechas de tu teclado para desplazarte entre las
+alcantarillas y pulsa espacio para extraer el agua contaminada.
+Pulsa cualquier tecla para continuar.
+Restantes:
+Se han colado residuos en la ciudad...
+Pulsa 's' para salir.
