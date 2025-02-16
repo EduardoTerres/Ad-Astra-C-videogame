@@ -91,10 +91,10 @@ Cada minijuego te otorgará puntos de bonificación en los atributos de tu civil
 
 La instalación es muy sencilla y consta de los siguientes 3 pasos:
 
-1. **Inicia el juego** Descarga el repositorio  🎮
-2. **Utiliza los comandos** Asegúrate de tener una versión de GCC instalada (>= 9.2, aunque anteriores pueden también valer).  💡
-3. **<span style="color:red">Completa misiones</span>** Reduce el tamaño de letra de terminal al mínimo posible.  🔴
-4. **Completa misiones** En el directorio raíz ejecuta `make game`. ¡Y LISTO, YA PUEDES EMPEZAR A JUGAR!  🚀
+1. 📥 **Descarga este repositorio** 🎮  
+2. 🛠️ **Asegúrate de tener una versión de GCC instalada** (>= 9.2, aunque anteriores pueden también valer). 💡  
+3. 🔍 **Reduce el tamaño de letra de terminal al mínimo posible** 📉  
+4. 💾 **En el directorio raíz ejecuta** `make game`. ¡Y LISTO, YA PUEDES EMPEZAR A JUGAR! 🚀🎉  
 
 ---
 
