@@ -42,7 +42,11 @@ Recuerda, la colonización de Ad Astra será más exitosa cuanto menos tiempo ta
 
 ## Comandos del Juego
 
-El juego se basa en **minijuegos** y se controla a través de comandos escritos. A continuación, se detallan las órdenes que podrás ejecutar:
+El juego se basa en **minijuegos** y se controla a través de comandos escritos.
+<img src="_readme_imgs/mis_cmd.png" alt="Mis Command" width="20%"/>  
+<img src="_readme_imgs/goto_cmd.png" alt="Goto Command" width="20%"/>  
+
+A continuación, se detallan las órdenes que podrás ejecutar:
 
 - **`*/goto nombre_lugar`**  
   *Usa este comando para desplazarte por el mapa y visitar distintos lugares.* 🗺️
