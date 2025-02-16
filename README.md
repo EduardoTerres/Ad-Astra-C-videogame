@@ -4,7 +4,7 @@
 
 ## Introducción
 
-Pulsa cualquier tecla para jugar y sumérgete en una aventura épica en la que tu civilización nace en la Tierra y se expande hacia el espacio. Según cuenta una vieja leyenda intergaláctica, existe una galaxia muy especial en un rincón perdido del universo... **La llaman Ad Astra**.
+Sumérgete en una aventura épica en la que tu civilización nace en la Tierra y se expande hacia el espacio. Según cuenta una vieja leyenda intergaláctica, existe una galaxia muy especial en un rincón perdido del universo... **La llaman Ad Astra**.
 
 En este juego, tu misión es desarrollar y evolucionar tu civilización potenciando tres atributos fundamentales: **sabiduría**, **fuerza** y **bienestar**. ¡Demuestra que tu pueblo puede superar cualquier reto y convertirse en la cultura más poderosa del universo!
 
@@ -90,6 +90,11 @@ La instalación es muy sencilla y consta de los siguientes 3 pasos:
 ## Autores
 
 Este juego fue creado con pasión y dedicación por el equipo de **NOVA Inc.**  
+
+[@mrrodero](https://github.com/mrrodero)
+[@jgimillo](https://github.com/jgimillo)
+[@AlberCC](https://github.com/AlberCC)
+[@EduardoTerres](https://github.com/EduardoTerres)
 
 Agradecemos cualquier mejora o arreglo. 🙏
 
