@@ -1,6 +1,6 @@
 # 🚀 Ad Astra
 
-[📄 🇪🇸 Spanish README](README.md)
+[📄 🇪🇸 Spanish](README.md)
 
 Welcome to **Ad Astra**! 🌟
 
