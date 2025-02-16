@@ -1,5 +1,7 @@
 # 🚀 Ad Astra
 
+[🇪🇸 Español](#) | [🇬🇧 English](#english-version)
+
 ¡Bienvenido a **Ad Astra**! 🌟
 
 ## Introducción
@@ -40,56 +42,9 @@ Recuerda, la colonización de Ad Astra será más exitosa cuanto menos tiempo ta
 
 ---
 
-## Comandos del Juego
-
-El juego se basa en **minijuegos** y se controla a través de comandos escritos.
-
-<img src="_readme_imgs/mis_cmd.png" alt="Mis Command" width="50%"/>  
-
-<img src="_readme_imgs/goto_cmd.png" alt="Goto Command" width="50%"/>  
-
-A continuación, se detallan las órdenes que podrás ejecutar:
-
-- **`*/goto nombre_lugar`**  
-  *Usa este comando para desplazarte por el mapa y visitar distintos lugares.* 🗺️
-
-- **`*/mis nombre_mision`**  
-  *Accede a un minijuego relacionado con el lugar en el que te encuentras.* 🎮
-
-- **`*/evolve`**  
-  *Prueba a evolucionar tu civilización. Úsalo cuando sientas que tienes suficientes puntos en tus atributos para promocionar a la siguiente fase.
-❗Debes ejecutar este comando para pasar de mundo...* 🚀
-
-![Evolve](_readme_imgs/evolve.png)
-
-*❗Y finalmente para ganar el juego...* ⭐
-![End of game](_readme_imgs/endgame.png)
-
-
-- **`*/help`**  
-  *Muestra este menú de ayuda para recordar todos los comandos disponibles.* ℹ️
-
----
-
-## Minijuegos
-
-La experiencia de **Ad Astra Chronicles** se centra en minijuegos. A medida que explores el mapa, te enfrentarás a:
-- **Puzles y acertijos** 🧠
-- **Retos de explotación de recursos** ⚙️
-- **Desafíos ciudadanos** 👥
-
-Cada minijuego te otorgará puntos de bonificación en los atributos de tu civilización.  
-*Si fallas en alguno, ¡no te preocupes! Puedes reintentarlo tantas veces como necesites.* 🔄
-
-![Minijuego 1](_readme_imgs/mj_1.png)  
-![Minijuego 2](_readme_imgs/mj_2.png)  
-![Minijuego 3](_readme_imgs/mj_3.png)  
-
----
-
 ## Instalación
 
-La instalación es muy sencilla y consta de los siguientes 3 pasos:
+La instalación es muy sencilla y consta de los siguientes pasos:
 
 1. 📥 **Descarga este repositorio** 🎮  
 2. 🛠️ **Asegúrate de tener una versión de GCC instalada** (>= 9.2, aunque anteriores pueden también valer). 💡  
@@ -108,5 +63,72 @@ Este juego fue creado con pasión y dedicación por el equipo de **NOVA Inc.**
 - [@EduardoTerres](https://github.com/EduardoTerres)
 
 Agradecemos cualquier mejora o arreglo. 🙏
+
+---
+
+# 🇬🇧 English Version
+(The game is not translated to english but the minigames can still be played)
+
+[🇪🇸 Español](#) | [🇬🇧 English](#english-version)
+
+## Introduction
+
+Embark on an epic adventure where your civilization is born on Earth and expands into space. According to an ancient intergalactic legend, there is a very special galaxy hidden in a remote corner of the universe... **They call it Ad Astra**.
+
+In this game, your mission is to develop and evolve your civilization by enhancing three fundamental attributes: **wisdom**, **strength**, and **well-being**. Show that your people can overcome any challenge and become the most powerful culture in the universe!
+
+---
+
+## Game Worlds
+
+The game takes place in two unique environments:
+
+### 1. Planet Earth 🌍
+*This is where your origins lie, where the adventure begins and the foundations of your civilization are forged.*
+
+![Planet Earth](_readme_imgs/planeta_tierra.png)  
+
+### 2. Outer Space 🌌
+*Explore the vast universe in search of Ad Astra, the legendary galaxy filled with resources and wisdom. Your civilization will have the opportunity to conquer new horizons in this intriguing environment.*
+
+![Outer Space](_readme_imgs/espacio.png)  
+
+---
+
+## Story & Objectives
+
+According to legend, Ad Astra is the richest galaxy of all, so prosperous and idyllic that any civilization that inhabits it would become the wisest and most powerful in the universe.  
+*No culture has ever been developed enough to find Ad Astra... until now!*
+
+To succeed:
+- **Complete missions:** Solve puzzles, challenges, and resource management tasks. 🧩
+- **Earn bonus points:** Each completed mission increases your attributes and accelerates your civilization's evolution. 💪📈
+- **Evolve:** Once you accumulate enough points, you can evolve and advance to the next stage! 🔄
+
+Remember, colonization of Ad Astra will be more successful the faster you reach it. ⏱️
+
+---
+
+## Installation
+
+Installation is straightforward and consists of the following steps:
+
+1. 📥 **Download this repository** 🎮  
+2. 🛠️ **Make sure you have GCC installed** (>= 9.2, although older versions may also work). 💡  
+3. 🔍 **Reduce the terminal font size to the minimum** 📉  
+4. 💾 **In the root directory, run** `make game`. And that's it, YOU'RE READY TO PLAY! 🚀🎉  
+
+---
+
+## 👥 Authors
+
+This game was created with passion and dedication by the **NOVA Inc.** team.
+
+- [@mrrodero](https://github.com/mrrodero)
+- [@jgimillo](https://github.com/jgimillo)
+- [@AlberCC](https://github.com/AlberCC)
+- [@EduardoTerres](https://github.com/EduardoTerres)
+
+We appreciate any improvements or bug fixes. 🙏
 
 ---
