@@ -105,10 +105,3 @@ Este juego fue creado con pasión y dedicación por el equipo de **NOVA Inc.**
 Agradecemos cualquier mejora o arreglo. 🙏
 
 ---
-
-## Créditos
-
-Desde **NOVA Inc.** esperamos que disfrutes de esta aventura.  
-¡Buena suerte y que comience la conquista de Ad Astra! 🌟
-
----
