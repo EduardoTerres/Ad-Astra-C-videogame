@@ -63,7 +63,7 @@ A continuación, se detallan las órdenes que podrás ejecutar:
 ![Evolve](_readme_imgs/evolve.png)
 
 ❗Y finalmente para ganar el juego...* ⭐
-![Evolve](_readme_imgs/endgame.png)
+![End of game](_readme_imgs/endgame.png)
 
 
 - **`*/help`**  
