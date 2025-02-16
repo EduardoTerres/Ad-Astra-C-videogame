@@ -1,6 +1,6 @@
 # 🚀 Ad Astra
 
-¡Bienvenido a **Ad Astra Chronicles**! 🌟
+¡Bienvenido a **Ad Astra**! 🌟
 
 ## Introducción
 
