@@ -1,0 +1,11 @@
+Los fosiles y minerales siempre han sido un simbolo de poder
+y riqueza en todas las civilizaciones.
+\Por suerte tus mejores geologos han encontrado un yacimiento de
+enormes rocas que albergan piedras preciosas en su interior.
+\Para romper cada una de estas rocas deberas golpearlas varias
+veces pulsando rapidamente diversas teclas.
+Pulsa cualquier tecla para continuar.
+Tiempo:
+Se acabo el tiempo...
+Restantes:
+Pulsa 's' para salir.

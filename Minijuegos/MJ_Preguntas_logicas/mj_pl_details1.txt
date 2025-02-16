@@ -1,0 +1,15 @@
+3
+10
+La seguridad del planeta se ha visto comprometida. Un virus ha infectado los sistemas de
+almacenamiento de datos, y ha incluido direcciones fantasmas, que resultan ser potencialmente
+peligrosas si son visitadas.
+\Tu mision es ayudar a determinar los numeros intrusos.
+\Antes de contestar debes estar seguro, ya que tienes un máximo de 3 intentos para responder.
+\¡suerte!
+\
+\Si fallas mas de 2/3 de las preguntas no conseguiras puntos, 
+pero podras repetir la mision cuantas veces quieras
+Pulse cualquier tecla para continuar.
+Respuesta incorrecta, intentos restantes
+Incorrecto
+Correcto

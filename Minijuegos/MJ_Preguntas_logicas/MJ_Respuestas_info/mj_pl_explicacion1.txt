@@ -1,0 +1,4 @@
+3
+La unica disposicion de galaxias que permite las posiciones relativas
+descritas es un cuadrado. Entonces, hay 4 galaxias.
+Pulse cualquier tecla para continuar.

@@ -1,0 +1,12 @@
+5
+7
+Para poder desarrollar una civilizacion con pretensiones a prosperar, deberas enfrentarte a
+los siguientes acertijos. 
+\Tendras 5 oportunidades para responder, pero deberas pensar detenidamente antes de responder.
+\
+\Si fallas mas de 2/3 de las preguntas no conseguiras puntos, 
+pero podras repetir la mision cuantas veces quieras
+Pulse cualquier tecla para continuar.
+Respuesta incorrecta, intentos restantes
+Incorrecto
+Correcto

@@ -1,0 +1,11 @@
+¡Un explorador de tu civilizacion se ha estrellado en stdplanet!
+\La atmosfera del planeta es conocida por su concentracion de areniscas,
+las cuales producen tormentas de arena que arrasan con todo.
+\Parece que una parte del cohete en el que viajaba el explorador ha salido
+despedida hacia una gruta en la que es facil extraviarse.
+\Ayudalo a encontrar la pieza para regresar. Deberas elegir el camino correcto
+hasta dar con la pieza.
+\Para ello, dirigite a la izquierda o derecha cuando haya una bifurcacion o hacia
+delante si solo un camino esta disponible. Es posible que te encuentres con un paso
+bloqueado, pero puedes volver hacia atras.
+Pulsa cualquier tecla para continuar.

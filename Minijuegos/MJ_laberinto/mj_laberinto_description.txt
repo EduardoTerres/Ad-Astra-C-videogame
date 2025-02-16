@@ -1,0 +1,11 @@
+Como se ha transmitido de generacion en generacion,
+se sabe de la existencia de unas ruinas submarinas en el mar
+proximo a la ciudad de Tenochtitlan.
+\Ahora que se cuenta con equipos de tecnologia punta por fin
+se puede investigar el mistico lugar. A pesar de que nunca se han
+visitado estas ruinas, hay rumores de su construccion, al parecer
+laberintica, con un principio y un final.
+\Deberas atravesar el templo por primera vez para registrar los 
+materiales de los que se compone, asi como cartografiar el camino
+que has seguido para dar con la salida del templo.
+Pulsa cualquier tecla para continuar.

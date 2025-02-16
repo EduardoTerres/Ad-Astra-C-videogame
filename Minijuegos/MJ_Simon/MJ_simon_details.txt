@@ -1,0 +1,10 @@
+se ha descubierto un ordenador que dejo una civilizacion 
+extraterrestre en un viaje a la tierra.
+\se sabe que el ordenador contiene informacion esencial para conocer la
+galaxia.
+\Este ordenador es simon.e y tendras que superar su prueba para obtener
+la informacion.
+\la prueba, solo a la altura de los mas inteligentes, consiste en repetir
+lo que haga simon.e.
+\¡pero cuidado! solo podras fallar 3 veces.
+Pulsa cualquier tecla para continuar.

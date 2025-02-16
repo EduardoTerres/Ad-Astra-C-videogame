@@ -1,0 +1,39 @@
+3
+10
+Los siguientes numeros corresponden a modulos donde se almaceno informacion valiosa. 
+\No obstante, uno de ellos no deberia estar aqui
+Cual es?
+\
+\              000010
+\              000011
+\              000101
+\              000111
+\              001001
+\              001011
+001001
+10
+Los siguientes numeros corresponden a contraseñas para la entrada a la unidad central de operaciones.
+No obstante, uno de ellos sobra. quiza resulte util tener en cuenta el numero de digitos de cada numero.
+\Cual es?
+\
+\
+\             1210
+\             70100
+\             3211000
+\             42101000
+\             6210001000
+70100
+12
+Los siguientes numeros corresponden a unidades de almacenamiento del modulo C de almacenamiento
+de alimentos.
+\No obstante, una incluye comida contaminada...
+\Cual es?
+\
+\
+\             103301
+\             2021202
+\             9009
+\             1102011
+\             4400044
+\             161
+2021202

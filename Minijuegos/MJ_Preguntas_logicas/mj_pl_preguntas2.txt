@@ -1,0 +1,22 @@
+4
+3
+Un oso camina 10 km hacia el norte, 10 km hacia el este y 10 km hacia el norte.
+\Al terminar su camino, llega al mismo punto del que partio.
+\De que color es el oso?
+Blanco
+4
+Un vulcano y un humano estan hablando:
+\uno de ellos afirma: soy vulcano
+\A su vez, el segundo afirma: soy humano
+\Si al menos uno de ellos miente, a que raza pertenece el primero?
+humano
+3
+En una ciudad se encuentran 100 ewoks y 100 guerreros neimoidianos.
+\Seleccionandolos al azar para poder esclavizarlos, cual es el numero minimo de selecciones que
+hay que hacer para que al menos dos integrantes de la misma raza hayan quedado esclavizados.
+3
+3
+En una ciudad se encuentran 50 andorianos y 50 cardasianos.
+\Seleccionandolos al azar para desterrarlos, cual es el numero minimo de selecciones que
+hay que hacer para que al menos dos andorianos hayan quedado desterrados.
+52

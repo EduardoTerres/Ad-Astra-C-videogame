@@ -1,0 +1,14 @@
+1
+9
+Para poder preparar a tu civilizacion de cara a una posible expansion por los confines
+del sistema solar, y con suerte, de la galaxia, debes tener una clara comprension de
+lo que hay ahi fuera.
+\Te enfrentaras a dos retos. Debes contestar correctamente a ambas para recibir 
+la bonificacion de victoria
+\
+\Tienes un unico intento para determinar la respuesta correcta, asi que piensa con detenimiento. 
+\
+Pulse cualquier tecla para continuar.
+Respuesta incorrecta, intentos restantes
+Incorrecto
+Correcto

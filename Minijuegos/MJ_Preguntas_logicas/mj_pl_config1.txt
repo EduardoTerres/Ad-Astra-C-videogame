@@ -1,0 +1,2 @@
+Minijuegos/MJ_Preguntas_logicas/mj_pl_details1.txt
+Minijuegos/MJ_Preguntas_logicas/mj_pl_preguntas1.txt

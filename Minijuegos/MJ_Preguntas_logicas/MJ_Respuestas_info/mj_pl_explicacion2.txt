@@ -1,0 +1,4 @@
+2
+Las galaxias forman un pentagono, de forma que cada una esta conectada a otras tres.
+La galaxia que es contigua a 5 se encuentra en el centro. Por esta razon hay 6 galaxias.
+

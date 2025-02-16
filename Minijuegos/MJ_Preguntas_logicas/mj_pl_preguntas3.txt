@@ -1,0 +1,24 @@
+2
+10
+A traves de tu telescopio eres capaz de divisar varias galaxias,
+pero el potente campo gravitatorio de la estrella del sistema solar ha 
+podido curvar los haces de luz, de forma que no has podido crear una imagen verosimil
+de la realidad.
+No obstante, tienes la siguiente informacion fiable:
+\
+\Dos de ellas se encuentran detras de otras dos
+\Dos de ellas se encuentran delante de otras dos
+Dos de ellas se encuentran al lado de otras dos
+\Cuantas galaxias hay?
+4
+9
+De nuevo, has avistado un conglomerado de galaxias, pero su posicion relativa
+es confusa.
+No obstante, tienes la siguiente informacion fiable:
+\
+\Hay una galaxia que es contigua a 5 galaxias.
+\El resto de galaxias estan conectadas a otras tres, es decir, 
+que son vertices contiguos en la figura que forman.
+\Cuantas galaxias hay?
+\PISTA: pueden formar una figura regular con una galaxia central
+6

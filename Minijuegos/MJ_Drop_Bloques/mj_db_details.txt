@@ -1,0 +1,14 @@
+¡La unidad central de la Estacion Espacial Internacional ha
+sido pirateada!
+\Parece ser que unos alienigenas han utilizado
+un potente software para burlar la seguridad de la nave y hacerse
+con informacion secreta acerca de tu civilizacion.
+\El cortafuegos de la ISS ha conseguido frenar el avance de los
+archivos infectados, pero solo tu puedes eliminarlos definitivamente.
+\Para ello ve de puerto a puerto de la unidad sin dejar ningun archivo
+corrupto entre medias.
+Pulsa cualquier tecla para continuar.
+Completado:
+Restantes:
+Pulsa 'r' para reiniciar el nivel.
+Pulsa 's' para salir.

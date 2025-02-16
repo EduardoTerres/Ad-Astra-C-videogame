@@ -1,0 +1,15 @@
+13
+Vidas
+Selecciona el primer numero de la pareja: 
+el caracter introducido es incorrecto
+ya has seleccionado esta carta
+es una trampa. has perdidio una vida
+Selecciona el segundo numero de la pareja: 
+el caracter introducido es incorrecto
+ya has seleccionado esta carta
+es una trampa. has perdido una vida
+correcto, son pareja
+no son pareja, sigue intentando
+Has perdido
+has ganado
+
