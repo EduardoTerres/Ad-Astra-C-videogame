@@ -57,9 +57,14 @@ A continuación, se detallan las órdenes que podrás ejecutar:
   *Accede a un minijuego relacionado con el lugar en el que te encuentras.* 🎮
 
 - **`*/evolve`**  
-  *Prueba a evolucionar tu civilización. Úsalo cuando sientas que tienes suficientes puntos en tus atributos para promocionar a la siguiente fase. ❗<span style="color:red">Debes ejecutar este comando para pasar de mundo y para ganar el juego.</span>* 🚀
+  *Prueba a evolucionar tu civilización. Úsalo cuando sientas que tienes suficientes puntos en tus atributos para promocionar a la siguiente fase.
+❗Debes ejecutar este comando para pasar de mundo...* 🚀
 
-![Evolve](_readme_imgs/evolve.png)  
+![Evolve](_readme_imgs/evolve.png)
+
+❗Y finalmente para ganar el juego...* ⭐
+![Evolve](_readme_imgs/endgame.png)
+
 
 - **`*/help`**  
   *Muestra este menú de ayuda para recordar todos los comandos disponibles.* ℹ️
