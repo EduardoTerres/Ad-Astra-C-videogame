@@ -90,7 +90,7 @@ Each mini-game will grant you bonus points for your civilization's attributes.
 
 ## Installation
 
-Installation is very simple and consists of the following 3 steps:
+Installation is very simple and consists of the following 4 steps:
 
 1. 📥 **Download this repository** 🎮  
 2. 🛠️ **Make sure you have GCC installed** (>= 9.2, although older versions may also work). 💡  
