@@ -91,7 +91,7 @@ Cada minijuego te otorgará puntos de bonificación en los atributos de tu civil
 
 ## Instalación
 
-La instalación es muy sencilla y consta de los siguientes 3 pasos:
+La instalación es muy sencilla y consta de los siguientes 4 pasos:
 
 1. 📥 **Descarga este repositorio** 🎮  
 2. 🛠️ **Asegúrate de tener una versión de GCC instalada** (>= 9.2, aunque anteriores pueden también valer). 💡  
