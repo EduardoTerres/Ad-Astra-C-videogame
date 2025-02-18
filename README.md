@@ -76,9 +76,9 @@ A continuación, se detallan las órdenes que podrás ejecutar:
 ## Minijuegos
 
 La experiencia de **Ad Astra Chronicles** se centra en minijuegos. A medida que explores el mapa, te enfrentarás a:
-- **Puzles y acertijos** 🧠
-- **Retos de explotación de recursos** ⚙️
-- **Desafíos ciudadanos** 👥
+- **Minijuegos de Lógica y Memoria** 🧠
+- **Minijuegos de Habilidad y Destrezas** 🎯
+- **Minijuegos de Exploración y Supervivencia** 🌀
 
 Cada minijuego te otorgará puntos de bonificación en los atributos de tu civilización.  
 *Si fallas en alguno, ¡no te preocupes! Puedes reintentarlo tantas veces como necesites.* 🔄
