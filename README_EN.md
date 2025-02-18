@@ -75,9 +75,9 @@ Here are the commands you can use:
 ## Mini-Games
 
 The **Ad Astra Chronicles** experience revolves around mini-games. As you explore the map, you will face:
-- **Puzzles and riddles** 🧠
-- **Resource exploitation challenges** ⚙️
-- **Citizen management challenges** 👥
+- **Logic & Memory Minigames** 🧠
+- **Skill & Dexterity Minigames** 🎯
+- **Exploration & Survival Minigames** 🌌
 
 Each mini-game will grant you bonus points for your civilization's attributes.  
 *If you fail a challenge, don’t worry! You can retry as many times as you need.* 🔄
