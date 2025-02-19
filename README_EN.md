@@ -4,6 +4,11 @@
 
 Welcome to **Ad Astra**! 🌟
 
+**Disclaimer:**
+
+This game is only available in spanish, including story and explanations of the minigames.
+However, the minigames are very intuitive plus guessing the mechanics can also be a fun experience (you have infinite attempts!!).
+
 ## Introduction
 
 Immerse yourself in an epic adventure where your civilization is born on Earth and expands into space. According to an ancient intergalactic legend, there is a very special galaxy hidden in a remote corner of the universe... **They call it Ad Astra**.
