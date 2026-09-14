@@ -65,7 +65,8 @@ Here are the commands you can use:
 
 - **`*/evolve`**  
   *Try to evolve your civilization. Use it when you feel you have accumulated enough points in your attributes to advance to the next phase.*
-❗ You must execute this command to progress to the next world... 🚀
+
+*❗ You must execute this command to progress to the next world...* 🚀
 
 ![Evolve](_readme_imgs/evolve.png)
 
